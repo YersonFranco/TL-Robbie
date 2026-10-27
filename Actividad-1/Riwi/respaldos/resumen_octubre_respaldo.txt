@@ -1,0 +1,5 @@
+Ana pasó a cliente inactivo
+La factura 001 fue pagada
+El proyecto móvil fue cancelado
+app_domicilios.txt fue archivado
+Se actualizaron los respaldos

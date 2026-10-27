@@ -1,0 +1,4 @@
+Número: 002
+Cliente: Luis Gómez
+Valor: 200000
+Estado: pendiente
